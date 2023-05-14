@@ -9,7 +9,7 @@ namespace Earth
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("AAABB");
+            MessageBox.Show("AAABBBCC");
         }
     }
 }
